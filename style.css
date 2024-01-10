@@ -25,8 +25,8 @@ a{
 .header{
     display: flex;
     align-items: center;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding-left: 52px;
+    padding-right: 52px;
     padding-top: 10px;
     justify-content: space-between;
 }
@@ -52,8 +52,8 @@ a{
     justify-content: space-between;
     align-items: center;
     padding-top: 96px;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding-left: 52px;
+    padding-right: 52px;
     padding-bottom: 96px;
     
 }
@@ -176,6 +176,7 @@ button{
     color: #f9faf8;
     margin: 0;
     margin-bottom: 12px;
+    max-width: 300px;
 }
 
 .box-c{
