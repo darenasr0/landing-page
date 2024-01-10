@@ -1,0 +1,35 @@
+body{
+    background-color: #1f2937;
+    font-family: 'Roboto', sans-serif;
+}
+
+.links{
+    font-size: 18px;
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+}
+
+.logo{
+    width: 62px;
+    height: 62px;
+}
+
+a{
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    padding-left: 32px;
+    padding-right: 32px;
+    justify-content: space-between;
+}
+
+.titulo{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 500;
+}
